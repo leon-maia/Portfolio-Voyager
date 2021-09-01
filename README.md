@@ -5,7 +5,7 @@ Projetos desenvolvidos durante o Método Voyager
 2) Credit risk: será desenvolvido na mentoria Voyager
 
 Dicionário de dados:
-0   person_age IDADE int64  
+0 person_age IDADE int64  
 1   person_income RENDA int64  
 2   person_home_ownership TIPO DE PROPRIEDADE DA CASA object
 3   person_emp_length TEMPO DE TRABALHO float64
