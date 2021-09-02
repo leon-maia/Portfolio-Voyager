@@ -4,6 +4,7 @@ Projetos desenvolvidos durante o Método Voyager
 1) Fraud Detect: analise inicial mostrou uma base de dados complexa para um primeiro estudo. Análise suspensa.
 
 2) Credit risk: será desenvolvido na mentoria Voyager
+
 Base de dados Kaggle: https://www.kaggle.com/laotse/credit-risk-dataset
 
 Dicionário de dados:
