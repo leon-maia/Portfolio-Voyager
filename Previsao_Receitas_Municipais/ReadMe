@@ -2,6 +2,7 @@ Mentoria para elaboração de Modelo para previsão da Receita Municipal do Fund
 
 Será utilizada a seguinte metodologia:
 1) Solicitação dos dados relativos à Receita Municipal do Município de Jaboatão dos Guararapes/PE ao sítio eletrônico do Tribunal de Contas do Estado de Pernambuco (TCE/PE)
-2) Gravação em Banco de dados relacional (PostgreSQL)
-3) Leitura (select) dos dados e organização para aplicação de Modelos de previsão de séries temporais
-4) Avaliação dos modelos e definição do melhor modelo para o conjunto de dados
+2) Gravação em Banco de dados relacional (PostgreSQL) (arquivo baseTransferencias.db)
+3) Elaboração, com suporte em planilha de excel, de DE-PARA dos códigos de receita apresentados na base de dados requisitada para a nomenclatura usualmente utilizada na Prefeitura de Jaboatão dos Guararapes (arquivo Receitas tratadas.csv)
+4) Leitura (select) dos dados (baseTransferencias.db) e organização para aplicação de Modelos de previsão de séries temporais
+5) Avaliação dos modelos e definição do melhor modelo para o conjunto de dados
