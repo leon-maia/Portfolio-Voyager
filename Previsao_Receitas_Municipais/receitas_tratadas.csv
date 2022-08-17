@@ -1,0 +1,293 @@
+NUMERORECEITAORCAMENTARIAUG;DESCRICAO;CLASSIFICACAO_SEREC;DETALHAMENTO
+917220101;Deducao de Cota-Parte do ICMS - FUNDEB;ICMS;DEDUCAO FUNDEB
+917220102;Deducao de Cota-Parte do IPVA - FUNDEB;IPVA;DEDUCAO FUNDEB
+917220104;Deducao de Cota-Parte do IPI sobre Exportacao - FUNDEB;IPI ExportaCAo;DEDUCAO FUNDEB
+917230000;Deducao de Transferencias dos Municipios;OUTRAS TRANSFERENCIAS;OUTRAS DEDUCOES
+917213600;Deducao de Transferencia Financeira do ICMS Desoneracao L.C. N. 87.96 - FUNDEB;ICMS DesoneraCAo L.C. Nº 87.96;DEDUCAO FUNDEB
+19219900;Outras Indenizacoes;;
+19229900;Outras Restituicoes;;
+19119900;Multas e Juros de Mora de Outros Tributos;;
+19195000;Multas por Auto de Infracao;;
+19191500;Multas Previstas na Legislacao de Transito;;
+19110000;Multas e Juros de Mora dos Tributos;;
+19199900;Outras Multas;;
+19191000;Multas Previstas na Legislacao Sanitaria;;
+19320000;Receita da Divida Ativa nao tributaria;NAO TRIBUTARIA;DIVIDA ATIVA
+19319900;Receita da Divida Ativa de Outros Tributos;OUTRO TRIBUTOS;DIVIDA ATIVA
+19311300;Receita da Divida Ativa do Imposto sobre Servicos de Qualquer Natureza - ISS;ISS;DIVIDA ATIVA
+19311100;Receita da Divida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU;IPTU;DIVIDA ATIVA
+19900201;Receita de Honorarios de Advogados;;
+19909900;Outras Receitas;;
+19900202;Receita de onus de Sucumbencia;;
+13290000;Outras Receitas de Valores Mobiliarios;;
+13210000;Juros de Titulos de Renda;;
+11120434;Imposto de Renda Retido nas Fontes sobre Outros Rendimentos;IRRF;Outros Rendimentos
+11120431;Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho;IRRF;Rendimentos do Trabalho
+11120800;Imposto sobre Transmissao Inter Vivos de Bens Imoveis e de Direitos Reais sobre Imoveis;ITBI;PRINCIPAL
+11130500;Imposto sobre Servicos de Qualquer Natureza;ISS;ORDINARIO
+11120200;Imposto sobre a Propriedade Predial e Territorial Urbana;IPTU;PRINCIPAL
+11222800;Taxa de Cemiterios;;
+11229000;Taxa de Limpeza Publica;;
+11229900;Outras Taxas pela Prestacao de Servicos;;
+11211700;Taxa de Fiscalizacao de Vigilancia Sanitaria;;
+11212900;Taxa de Licenca para Execucao de Obras;;
+11212600;Taxa de Publicidade Comercial;;
+11212500;Taxa de Licenca para Funcionamento de Estabelecimentos Comerciais, Industrias e Prestadoras de Servicos;;
+12300000;Contribuicao para o Custeio do Servico de Iluminacao Publica;CIP;PRINCIPAL
+17619900;Outras Transferencias de Convenios da Uniao;;
+17210105;Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;ITR;PRINCIPAL
+17213300;Transferencia de Recursos do Sistema unico de Saude - SUS - Repasses Fundo a Fundo;;
+17229900;Outras Transferencias dos Estados;OUTRAS TRANSFERENCIAS;ESTADOS
+17212290;Outras Transferencias decorrentes de Compensacao Financeira pela Exploracao de Recursos Naturais;;
+17213600;Transferencia Financeira do ICMS Desoneracao L.C. N. 87.96;ICMS DesoneraCAo L.C. Nº 87.96;PRINCIPAL
+17220101;Cota-Parte do ICMS;ICMS;PRINCIPAL
+17212270;Cota-Parte do Fundo Especial do Petroleo - FEP;FEP;PRINCIPAL
+17213504;Transferencias Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte Escolar - PNATE;;
+17220104;Cota-Parte do IPI sobre Exportacao;IPI ExportaCAo;PRINCIPAL
+17220113;Cota-Parte da Contribuicao de Intervencao no Dominio Economico;CIDE;PRINCIPAL
+17213501;Transferencias do Salario-Educacao;;
+17213503;Transferencias Diretas do FNDE referentes ao Programa Nacional de Alimentacao Escolar - PNAE;;
+17240200;Transferencias de Recursos da Complementacao da Uniao ao Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao - FUNDEB;FUNDEB;COMPLEMENTO UNIAO
+17210102;Cota-Parte do Fundo de Participacao dos Municipios;FPM;PRINCIPAL
+17240100;Transferencias de Recursos do Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao - FUNDEB;FUNDEB;ORDINARIO
+17213500;Transferencias de Recursos do Fundo Nacional do Desenvolvimento da Educacao - FNDE;;
+17220102;Cota-Parte do IPVA;IPVA;PRINCIPAL
+917210000;Deducao de Transferencias da Uniao;OUTRAS TRANSFERENCIAS;OUTRAS DEDUCOES
+917210105;Deducao de Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - FUNDEB;ITR;DEDUCAO FUNDEB
+13110000;Alugueis;;
+11300000;Contribuicao de Melhoria;CONTRIBUICAO DE MELHORIA;PRINCIPAL
+17219900;Outras Transferencias da Uniao;OUTRAS TRANSFERENCIAS;UNIAO
+22290000;Alienacao de Outros Bens Imoveis;;
+24210100;Transferencias de Recursos do Sistema unico de Saude - SUS;;
+19192700;Multas e Juros Previstos em Contratos;;
+17610300;Transferencias de Convenios da Uniao Destinadas a Programas de Assistencia Social;;
+17213599;Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao - FNDE;;
+11213100;Taxa de Utilizacao de area de Dominio Publico;;
+17620100;Transferencias de Convenio dos Estados para o Sistema unico de Saude - SUS;;
+17212250;Cota-parte Royalties pela Participacao Especial Lei N. 9.478.97, artigo 50;Royalties;PRINCIPAL
+77210102;Cota-Parte do Fundo de Participacao dos Municipios;FPM;PRINCIPAL
+17300000;Transferencias de Instituicoes Privadas;;
+22190000;Alienacao de Outros Bens Moveis;;
+24719900;Outras Transferencias de Convenios da Uniao;;
+24300000;Transferencias de Instituicoes Privadas;;
+17629900;Outras Transferencias de Convenio dos Estados;;
+91517220101;Deducao do Fundeb de Cota-Parte do ICMS - FUNDEB;ICMS;DEDUCAO FUNDEB
+91517213600;Deducao do Fundeb de Transferencia Financeira do ICMS Desoneracao L.C. N. 87.96 - FUNDEB;ICMS DesoneraCAo L.C. Nº 87.96;DEDUCAO FUNDEB
+91517220104;Deducao do Fundeb de Cota-Parte do IPI sobre Exportacao - FUNDEB;IPI ExportaCAo;DEDUCAO FUNDEB
+91517210102;Deducao do Fundeb de Cota-Parte do Fundo de Participacao dos Municipios;FPM;DEDUCAO FUNDEB
+91517220102;Deducao do Fundeb de Cota-Parte do IPVA - FUNDEB;IPVA;DEDUCAO FUNDEB
+91517210105;Deducao do Fundeb de Cota-Parte do Imposto sobre a Propriedade Territorial Rural;ITR;DEDUCAO FUNDEB
+14100000;Receita da Producao Vegetal;;
+17212220;Cota-parte da Compensacao Financeira de Recursos Minerais - CFEM;CFEM;PRINCIPAL
+17213311;Atencao Basica;;
+17213312;Atencao de Media e Alta Complexidade Ambulatorial e Hopitalar;;
+17213399;Outros Programas Financ por Transf. Fundo a Fundo;;
+17213313;Vigilancia em Saude;;
+11219900;Outras Taxas pelo Exercicio do Poder de Policia;;
+91917220104;Outras Deducoes de Cota-Parte do IPI sobre Exportacao;IPI ExportaCAo;OUTRAS DEDUCOES
+19311100;Receita da Divida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ? IPTU;IPTU;DIVIDA ATIVA
+19311300;Receita da Divida Ativa do Imposto sobre Servicos de Qualquer Natureza ? ISS;ISS;DIVIDA ATIVA
+11120800;Imposto sobre Transmissao ?Inter Vivos? de Bens Imoveis e de Direitos Reais sobre Imoveis;ITBI;PRINCIPAL
+12209900;Outras Contribuicoes Economicas;;
+17212250;Cota-parte Royalties pela Participacao Especial ? Lei N. 9.478.97, artigo 50;Royalties;PRINCIPAL
+17210102;Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal;FPM;PRINCIPAL
+17213400;Transferencias de Recursos do Fundo Nacional de Assistencia Social ? FNAS;;
+17213600;Transferencia Financeira do ICMS ? Desoneracao ? L.C. N. 87.96;ICMS DesoneraCAo L.C. Nº 87.96;PRINCIPAL
+17213503;Transferencias Diretas do FNDE referentes ao Programa Nacional de Alimentacao Escolar ? PNAE;;
+17213599;Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao ? FNDE;;
+17240100;Transferencias de Recursos do Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB;FUNDEB;ORDINARIO
+17213504;Transferencias Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ? PNATE;;
+17240200;Transferencias de Recursos da Complementacao da Uniao ao Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB;FUNDEB;COMPLEMENTO UNIAO
+17212270;Cota-Parte do Fundo Especial do Petroleo ? FEP;FEP;PRINCIPAL
+24210100;Transferencias de Recursos do Sistema unico de Saude ? SUS;;
+17620100;Transferencias de Convenio dos Estados para o Sistema unico de Saude ? SUS;;
+19900201;Encargos Legais pela Inscricao em Divida Ativa;ENCARGOS LEGAIS;DIVIDA ATIVA
+21140500;Operacoes de Credito Internas para Programas de Modernizacao da Administracao Publica;;
+24229900;Outras Transferencias dos Estados;OUTRAS TRANSFERENCIAS;ESTADOS
+17500000;Transferencias de Pessoas;;
+24210200;Transferencias de Recursos Destinados a Programas de Educacao;;
+13610100;Receita de Cessao do Direito de Operacionalizacao da Folha de Pagamento de Pessoal;;
+24710200;Transferencias de Convenio da Uniao destinadas a Programas de Educacao;;
+91517180611;Deducao do Fundeb de Transferencia Financeira do ICMS ? Desoneracao ? L.C. N. 87.96 - Principal;ICMS DesoneraCAo L.C. Nº 87.96;DEDUCAO FUNDEB
+91517180121;Deducao do Fundeb de Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal;FPM;DEDUCAO FUNDEB
+91517180151;Deducao do Fundeb de Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal;ITR;PRINCIPAL
+91517280111;Deducao do Fundeb de Cota-Parte do ICMS - Principal;ICMS;DEDUCAO FUNDEB
+91517280131;Deducao do Fundeb de Cota-Parte do IPI - Municipios - Principal;IPI ExportaCAo;DEDUCAO FUNDEB
+91517280121;Deducao do Fundeb de Cota-Parte do IPVA - Principal;IPVA;DEDUCAO FUNDEB
+12400011;Contribuicao para o Custeio do Servico de Iluminacao Publica - Principal;CIP;PRINCIPAL
+11180111;Imposto sobre a Propriedade Predial e Territorial Urbana - Principal;IPTU;PRINCIPAL
+11180231;Imposto sobre Servicos de Qualquer Natureza - Principal;ISS;PRINCIPAL
+11130311;Imposto sobre a Renda - Retido na Fonte - Trabalho - Principal;IRRF;Trabalho - Principal
+11180141;Imposto sobre Transmissao ?Inter Vivos? de Bens Imoveis e de Direitos Reais sobre Imoveis - Principal;ITBI;PRINCIPAL
+11130341;Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos - Principal;IRRF;Rendimentos - Principal
+11180232;Imposto sobre Servicos de Qualquer Natureza - Multas e Juros;ISS;MULTA E JUROS
+11180234;Imposto sobre Servicos de Qualquer Natureza - Divida Ativa - Multas e Juros;ISS;DIVIDA ATIVA MULTA E JUROS
+11180114;Imposto sobre a Propriedade Predial e Territorial Urbana - Divida Ativa - Multas e Juros;IPTU;DIVIDA ATIVA MULTA E JUROS
+11180112;Imposto sobre a Propriedade Predial e Territorial Urbana - Multas e Juros;IPTU;MULTA E JUROS
+11180113;Imposto sobre a Propriedade Predial e Territorial Urbana - Divida Ativa;IPTU;DIVIDA ATIVA
+11180142;Imposto sobre Transmissao ?Inter Vivos? de Bens Imoveis e de Direitos Reais sobre Imoveis - Multas e Juros;ITBI;MULTA E JUROS
+11180233;Imposto sobre Servicos de Qualquer Natureza - Divida Ativa;ISS;DIVIDA ATIVA
+11220112;Taxas pela Prestacao de Servicos - Multas e Juros;;
+11210112;Taxas de Inspecao, Controle e Fiscalizacao - Multas e Juros;;
+11210111;Taxas de Inspecao, Controle e Fiscalizacao - Principal;;
+11210114;Taxas de Inspecao, Controle e Fiscalizacao - Divida Ativa - Multas e Juros;;
+11220111;Taxas pela Prestacao de Servicos - Principal;;
+11210113;Taxas de Inspecao, Controle e Fiscalizacao - Divida Ativa;;
+11220113;Taxas pela Prestacao de Servicos - Divida Ativa;;
+11220114;Taxas pela Prestacao de Servicos - Divida Ativa - Multas e Juros;;
+19909911;Outras Receitas - Primarias - Principal;;
+19909912;Outras Receitas - Primarias - Multas e Juros;;
+19901221;onus de Sucumbencia - Principal;;
+19239913;Outros Ressarcimentos - Divida Ativa;;
+19229911;Outras Restituicoes - Principal;;
+19239911;Outros Ressarcimentos - Principal;;
+19100114;Multas Previstas em Legislacao Especifica - Divida Ativa - Multas e Juros;;
+19100112;Multas Previstas em Legislacao Especifica - Multas e Juros;;
+19100113;Multas Previstas em Legislacao Especifica - Divida Ativa;;
+19100111;Multas Previstas em Legislacao Especifica - Principal;;
+13490111;Compensacoes Ambientais - Principal;;
+13290011;Outros Valores Mobiliarios - Principal;;
+13210011;Remuneracao de Depositos Bancarios - Principal;;
+13210051;Juros de Titulos de Renda - Principal;;
+17180251;Cota-parte Royalties pela Participacao Especial ? Lei N. 9.478.97, artigo 50 - Principal;Royalties;PRINCIPAL
+17180151;Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal;ITR;PRINCIPAL
+17180261;Cota-Parte do Fundo Especial do Petroleo ? FEP - Principal;FEP;PRINCIPAL
+17180231;Cota-parte Royalties ? Compensacao Financeira pela Producao de Petroleo ? Lei N. 7.990.89 - Principal;Royalties;PRINCIPAL
+17180311;Transferencia de Recursos do Sistema unico de Saude ? SUS ? Repasses Fundo a Fundo - Principal;;
+17180511;Transferencias do Salario-Educacao - Principal;;
+17180121;Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal;FPM;PRINCIPAL
+17180221;Cota-parte da Compensacao Financeira de Recursos Minerais - CFEM - Principal;CFEM;PRINCIPAL
+17180411;Transferencias de Recursos do Fundo Nacional de Assistencia Social ? FNAS - Principal;;
+17180521;Transferencias Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ? PDDE - Principal;;
+17180611;Transferencia Financeira do ICMS ? Desoneracao ? L.C. N. 87.96 - Principal;ICMS DesoneraCAo L.C. Nº 87.96;PRINCIPAL
+17180541;Transferencias Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ? PNATE - Principal;;
+17180531;Transferencias Diretas do FNDE referentes ao Programa Nacional de Alimentacao Escolar ? PNAE - Principal;;
+19220111;Restituicao de Convenios - Primarias - Principal;;
+19220611;Restituicao de Despesas de Exercicios Anteriores - Principal;;
+16100211;Inscricao em Concursos e Processos Seletivos - Principal;;
+17580111;Transferencias de Recursos do Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB - Principal;FUNDEB;ORDINARIO
+17580121;Transferencias de Recursos da Complementacao da Uniao ao Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB - Principal;FUNDEB;COMPLEMENTO UNIAO
+17700011;Transferencias de Pessoas Fisicas - Principal;;
+17280121;Cota-Parte do IPVA - Principal;IPVA;PRINCIPAL
+17289911;Outras Transferencias dos Estados - Principal;OUTRAS TRANSFERENCIAS;ESTADOS
+17280311;Transferencia de Recursos do Estado para Programas de Saude ? Repasse Fundo a Fundo - Principal;;
+17280111;Cota-Parte do ICMS - Principal;ICMS;PRINCIPAL
+17280131;Cota-Parte do IPI - Municipios - Principal;IPI ExportaCAo;PRINCIPAL
+24181091;Outras Transferencias de Convenios da Uniao - Principal;;
+24180311;Transferencias de Recursos do Sistema unico de Saude ? SUS - Principal;;
+24181021;Transferencias de Convenio da Uniao destinadas a Programas de Educacao -  - Principal;;
+24180511;Transferencias de Recursos Destinados a Programas de Educacao - Principal;;
+24400011;Transferencias de Instituicoes Privadas - Principal;;
+17189911;Outras Transferencias da Uniao - Principal;OUTRAS TRANSFERENCIAS;UNIAO
+17180591;Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao ? FNDE - Principal;;
+17280141;Cota-Parte da Contribuicao de Intervencao no Dominio Economico - Principal;CIDE;PRINCIPAL
+17280711;Transferencias de Estados destinadas A Assistencia Social - Principal;;
+17181091;Outras Transferencias de Convenios da Uniao - Principal;;
+17281011;Transferencias de Convenio dos Estados para o Sistema unico de Saude ? SUS - Principal;;
+21180151;Operacoes de Credito Internas para Programas de Modernizacao da Administracao Publica - Principal;;
+17281091;Outras Transferencias de Convenio dos Estados - Principal;;
+19280311;Ressarcimento - Especificas para Estados.DF.Municipios - Principal;;
+19280291;Outras Restituicoes - Especificas para Estados.DF.Municipios - Nao Especificadas Anteriormente - Principal;;
+19280111;Indenizacoes - Especificas para Estados.DF.Municipios - Principal;;
+19100911;Multas e Juros Previstos em Contratos - Principal;;
+19909921;Outras Receitas - Financeiras - Principal;;
+11280111;Taxa de Fiscalizacao de Vigilancia Sanitaria - Principal;;
+11280191;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Principal;;
+11280194;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Divida Ativa - Multas e Juros;;
+11280192;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Multas e Juros;;
+11280193;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Divida Ativa;;
+11210411;Taxa de Controle e Fiscalizacao Ambiental - Principal;;
+17180911;Transferencias de Recursos da Complementacao da Uniao ao Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB - Principal;FUNDEB;COMPLEMENTO UNIAO
+17180311;Transferencia de Recursos do SUS ? Atencao Basica - Principal;;
+17180331;Transferencia de Recursos do SUS ? Vigilancia em Saude;;
+17180321;Transferencia de Recursos do SUS ? Atencao de Media e Alta Complexidade Ambulatorial e Hospitalar - Principal;;
+17180341;Transferencia de Recursos do SUS ? Assistencia Farmaceutica - Principal;;
+17181211;Transferencias de Recursos do Fundo Nacional de Assistencia Social ? FNAS - Principal;;
+17180411;Transferencias de Recursos do Sistema unico de Saude ? SUS destinados A Atencao Basica - Principal;;
+17180141;Cota-Parte do Fundo de Participacao dos Municipios - 1. Cota entregue no mes de julho - Principal;FPM;PRINCIPAL
+21190011;Outras Operacoes de Credito - Mercado Interno - Principal;;
+24180411;Transferencias de Recursos do Sistema unico de Saude ? SUS destinados A Atencao Basica - Principal;;
+24180421;Transferencias de Recursos do Sistema unico de Saude ? SUS destinados A Atencao Especializada - Principal;;
+24281091;Outras Transferencias de Convenio dos Estados - Principal;;
+17180351;Transferencia de Recursos do SUS ? Gestao do SUS - Principal;;
+17180131;Cota-Parte do Fundo de Participacao do Municipios ? 1. Cota entregue no mes de dezembro - Principal;FPM;PRINCIPAL
+17180391;Transferencia de Recursos do SUS ? Outros Programas Financiados por Transferencias Fundo a Fundo - Principal;;
+24181011;Transferencias de Convenio da Uniao para o Sistema unico de Saude ? SUS - Principal;;
+24181211;Transferencias de Recursos do Fundo Nacional de Assistencia Social ? FNAS - Principal;;
+13220011;Dividendos - Principal;;
+17481011;Outras Transferencia de Instituicoes Privadas para EST.DF.MUN - Nao Especificadas Anteriormente - Principal;;
+24189911;Outras Transferencias da Uniao - Principal;OUTRAS TRANSFERENCIAS;UNIAO
+24180391;Transferencia de Recursos do SUS ? Outros Programas Financiados por Transferencias Fundo a Fundo - Principal;;
+13100212;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Multas e Juros;;
+13100211;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Principal;;
+13100213;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Divida Ativa;;
+22130011;Alienacao de Bens Moveis e Semoventes - Principal;;
+13100214;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Divida Ativa - Multas e Juros;;
+91517115111;Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal;FPM;PRINCIPAL
+91517215001;Cota-Parte do ICMS - Principal;ICMS;PRINCIPAL
+91517215201;Cota-Parte do IPI - Municipios - Principal;IPI ExportaCAo;PRINCIPAL
+91517215101;Cota-Parte do IPVA - Principal;IPVA;PRINCIPAL
+19220631;Restituicao de Despesas Primarias de Exercicios Anteriores - Principal;;
+19110101;Multas Previstas em Legislacao Especifica - Principal;;
+19110901;Multas e Juros Previstos em Contratos - Principal;;
+19110404;Multas Previstas na Legislacao sobre Defesa dos Direitos Difusos - Multas de Juros da Divida Ativa;;
+19991221;onus de Sucumbencia - Principal;;
+13210101;Remuneracao de Depositos Bancarios - Principal;;
+91517115201;Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal;ITR;PRINCIPAL
+19110102;Multas Previstas em Legislacao Especifica - Multas e Juros;;
+19110104;Multas Previstas em Legislacao Especifica - Divida Ativa - Multas e Juros;;
+19110401;Multas Previstas na Legislacao sobre Defesa dos Direitos Difusos - Principal;;
+19110403;Multas Previstas na Legislacao sobre Defesa dos Direitos Difusos - Divida Ativa;;
+19110103;Multas Previstas em Legislacao Especifica - Divida Ativa;;
+19110402;Multas Previstas na Legislacao sobre Defesa dos Direitos Difusos - Multas de Juros;;
+13490101;Compensacoes Ambientais - Principal;;
+13110202;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Multas e Juros;;
+11145111;Imposto sobre Servicos de Qualquer Natureza - Principal;ISS;PRINCIPAL
+11145114;Imposto sobre Servicos de Qualquer Natureza - Divida Ativa - Multas e Juros;ISS;DIVIDA ATIVA MULTA E JUROS
+11125301;Imposto sobre Transmissao ?Inter Vivos? de Bens Imoveis e de Direitos Reais sobre Imoveis - Principal;ITBI;PRINCIPAL
+13110204;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Divida Ativa - Multas e Juros;;
+11125302;Imposto sobre Transmissao ?Inter Vivos? de Bens Imoveis e de Direitos Reais sobre Imoveis - Multas e Juros;ITBI;MULTA E JUROS
+13110201;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Principal;;
+11125004;Imposto sobre a Propriedade Predial e Territorial Urbana - Divida Ativa - Multas e Juros;IPTU;DIVIDA ATIVA MULTA E JUROS
+11125001;Imposto sobre a Propriedade Predial e Territorial Urbana - Principal;IPTU;PRINCIPAL
+11125002;Imposto sobre a Propriedade Predial e Territorial Urbana - Multas e Juros;IPTU;MULTA E JUROS
+11215001;Taxa de Fiscalizacao de Vigilancia Sanitaria - Principal;;
+11220104;Taxas pela Prestacao de Servicos - Divida Ativa - Multas e Juros;;
+11210101;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Principal;;
+11220101;Taxas pela Prestacao de Servicos - Principal;;
+11210103;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Divida Ativa;;
+11210102;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Multas e Juros;;
+11220102;Taxas pela Prestacao de Servicos - Multas e Juros;;
+11210104;Taxas de Inspecao, Controle e Fiscalizacao - Outras - Divida Ativa - Multas e Juros;;
+11220103;Taxas pela Prestacao de Servicos - Divida Ativa;;
+12415001;Contribuicao para o Custeio do Servico de Iluminacao Publica - Principal;CIP;PRINCIPAL
+17115201;Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal;ITR;PRINCIPAL
+17125231;Cota-parte Royalties pela Participacao Especial ? Lei N. 9.478.97, artigo 50 - Principal;Royalties;PRINCIPAL
+17150001;Transferencias de Recursos de Complementacao da Uniao ao Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEBa  - Principal;FUNDEB;COMPLEMENTO UNIAO
+17135011;Transferencia de Recursos do SUS ? Atencao Basica - Principal;;
+17135031;Transferencia de Recursos do SUS ? Vigilancia em Saude;;
+17199901;Outras Transferencias da Uniao - Principal;OUTRAS TRANSFERENCIAS;UNIAO
+17135021;Transferencia de Recursos do SUS ? Atencao de Media e Alta Complexidade Ambulatorial e Hospitalar - Principal;;
+17125241;Cota-Parte do Fundo Especial do Petroleo ? FEP - Principal;FEP;PRINCIPAL
+17125211;Cota-parte Royalties ? Compensacao Financeira pela Producao de Petroleo ? Lei N. 7.990.89 - Principal;Royalties;PRINCIPAL
+17135041;Transferencia de Recursos do SUS ? Assistencia Farmaceutica - Principal;;
+17145001;Transferencias do Salario-Educacao - Principal;;
+17919901;Outras Transferencias de Pessoas Fisicas - Principal;;
+17125101;Cota-parte da Compensacao Financeira de Recursos Minerais - CFEM - Principal;CFEM;PRINCIPAL
+17215301;Cota-Parte da Contribuicao de Intervencao no Dominio Economico - Principal;CIDE;PRINCIPAL
+17215001;Cota-Parte do ICMS - Principal;ICMS;PRINCIPAL
+17515001;Transferencias de Recursos do Fundo de Manutencao e Desenvolvimento da Educacao Basica e de Valorizacao dos Profissionais da Educacao ? FUNDEB - Principal;FUNDEB;ORDINARIO
+17215201;Cota-Parte do IPI - Municipios - Principal;IPI ExportaCAo;PRINCIPAL
+17215101;Cota-Parte do IPVA - Principal;IPVA;PRINCIPAL
+17299901;Outras Transferencias dos Estados - Principal;OUTRAS TRANSFERENCIAS;ESTADOS
+21125401;Operacoes de Credito Internas para Programas de Modernizacao da Administracao Publica - Principal;;
+24149901;Outras Transferencias de Convenios da Uniao e de Suas Entidades - Principal;;
+11145112;Imposto sobre Servicos de Qualquer Natureza - Multas e Juros;ISS;MULTA E JUROS
+11145113;Imposto sobre Servicos de Qualquer Natureza - Divida Ativa;ISS;DIVIDA ATIVA
+11125003;Imposto sobre a Propriedade Predial e Territorial Urbana - Divida Ativa;IPTU;DIVIDA ATIVA
+17115111;Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal;FPM;PRINCIPAL
+17149901;Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao ? FNDE - Principal;;
+17165011;Transferencias de Recursos do Fundo Nacional de Assistencia Social ? FNAS - Principal;;
+13110203;Concessao, Permissao, Autorizacao ou Cessao do Direito de Uso de Bens Imoveis Publicos - Divida Ativa;;
+17179901;Outras Transferencias de Convenios da Uniao - Principal;;
+21199901;Outras Operacoes de Credito - Mercado Interno - Principal;;
