@@ -1,0 +1,7 @@
+Mentoria para elaboração de Modelo para previsão da Receita Municipal do Fundo de Participação dos Municípios
+
+Será utilizada a seguinte metodologia:
+1) Solicitação dos dados relativos à Receita Municipal do Município de Jaboatão dos Guararapes/PE ao sítio eletrônico do Tribunal de Contas do Estado de Pernambuco (TCE/PE)
+2) Gravação em Banco de dados relacional (PostgreSQL)
+3) Leitura (select) dos dados e organização para aplicação de Modelos de previsão de séries temporais
+4) Avaliação dos modelos e definição do melhor modelo para o conjunto de dados
